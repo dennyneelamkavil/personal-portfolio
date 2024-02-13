@@ -1,34 +1,35 @@
 .navbar {
-    transition: all 0.4s ease;
-  }
-  .navbar a.navbar-brand {
-    font-weight: bold;
-  }
-  #about {
-    background-color: #f8f9fa;
-  }
-  .image{
-    height: 60%;
-  }
-  .contact:hover{
-    text-decoration: underline;
-    color: darkblue;
-  }
-  #contact {
-    background-color: #f8f9fa;
-  }
-  footer {
-    background-color: #343a40;
-  }
-  .box-shadow:hover{
-    box-shadow: 1px 1px 4px 2px rgb(0,0,0, 0.1);
-  }
-  .footer-social-icons a{
-    font-size: 1.4rem;
-    color: grey;
-    margin-right: 10px;
-    text-decoration: none;
-  }
-  .footer-social-icons a:hover{
-    color: white;
-  }
+  transition: all 0.4s ease;
+}
+.navbar a.navbar-brand {
+  font-weight: bold;
+}
+#about {
+  background-color: #f8f9fa;
+}
+.image{
+  
+  width: 60%;
+}
+.contact:hover{
+  text-decoration: underline;
+  color: darkblue;
+}
+#contact {
+  background-color: #f8f9fa;
+}
+footer {
+  background-color: #343a40;
+}
+.box-shadow:hover{
+  box-shadow: 1px 1px 4px 2px rgb(0,0,0, 0.1);
+}
+.footer-social-icons a{
+  font-size: 1.4rem;
+  color: grey;
+  margin-right: 10px;
+  text-decoration: none;
+}
+.footer-social-icons a:hover{
+  color: white;
+}
