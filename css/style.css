@@ -32,3 +32,6 @@ footer {
 .footer-social-icons a:hover{
   color: white;
 }
+#fullnameError{
+  display: none;
+}
